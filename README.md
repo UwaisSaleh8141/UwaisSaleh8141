@@ -11,7 +11,7 @@
 <img alt="Google" width="500px" height="500px" src="https://i.redd.it/5vvpn6tlghw41.jpg" />
 
 
-### Connect with me:
+### Connect With Me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
@@ -33,22 +33,6 @@
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
 <img align="left" alt="RaspberryPi" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="VisualStudio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <br />
 <br />
