@@ -7,6 +7,10 @@
 - 🥅 2022 Goals: Land an internship with an android app development team 📱
 - ⚡ Fun fact: I like to code and play video games 🎮
 
+<br/>
+<img alt="Google" width="400px" height="400px" src="https://i.redd.it/jd25yqv8xsf31.jpg" />
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
