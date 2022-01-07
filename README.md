@@ -13,7 +13,8 @@
 
 ### Connect With Me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="UwaisSaleh | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="UwaisSaleh | Twitter" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
 
 <br />
 
@@ -38,3 +39,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/uwais-saleh-5083321b7/
+[twitter]: https://twitter.com/SalehUwais
