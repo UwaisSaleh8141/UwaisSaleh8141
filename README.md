@@ -24,6 +24,7 @@
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="Trello" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" />
 <img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="MySql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
