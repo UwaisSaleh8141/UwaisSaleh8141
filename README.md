@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I like to code and play video games 🎮
 
 <br/>
-<img alt="Google" width="400px" height="400px" src="https://i.redd.it/jd25yqv8xsf31.jpg" />
+<img alt="Google" width="500px" height="500px" src="https://i.redd.it/5vvpn6tlghw41.jpg" />
 
 
 ### Connect with me:
