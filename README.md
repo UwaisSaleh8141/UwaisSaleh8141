@@ -2,7 +2,7 @@
 
 ### I'm An Ambitous Computer Engineering Technology Student With An Interest In Android App Development.
 
-- 🌱 I’m currently learning kotlin
+- 💎 I’m currently learning kotlin and wokring on projects to expand portfolio
 - 👯 I’m looking to collaborate with others 
 - 🥅 2022 Goals: Landing an internship with an android app development team 📱
 - ⚡ Fun fact: I like to code and play video games 🎮
