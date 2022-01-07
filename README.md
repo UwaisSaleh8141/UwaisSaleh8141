@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning kotlin
 - 👯 I’m looking to collaborate with others 
-- 🥅 2022 Goals: Land an internship with an android app development team 📱
+- 🥅 2022 Goals: Landing an internship with an android app development team 📱
 - ⚡ Fun fact: I like to code and play video games 🎮
 
 <br/>
