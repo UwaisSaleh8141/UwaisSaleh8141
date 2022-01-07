@@ -1,6 +1,6 @@
 ## Hi, Im Uwais 👋 
 
-### I'm an ambitous Computer Engineering Technology student with an interest in android app development.
+### I'm An Ambitous Computer Engineering Technology Student With An Interest In Android App Development.
 
 - 🌱 I’m currently learning programming in kotlin
 - 👯 I’m looking to collaborate with others 
